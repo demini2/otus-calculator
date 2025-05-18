@@ -1,0 +1,16 @@
+{
+    "name": "demini2/otus-calculator",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Demini2\\OtusCalculator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mini",
+            "email": "demini232@mail.ru"
+        }
+    ],
+    "require": {}
+}
