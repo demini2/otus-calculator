@@ -23,7 +23,7 @@ class Calculator
 
         if (!is_int($b) && !is_float($b)) {
 
-            return 'Переменная $a должна быть числом';
+            return 'Переменная $b должна быть числом';
         }
 
         return $a + $b;
